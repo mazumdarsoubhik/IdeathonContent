@@ -10,6 +10,7 @@
 ## Resources
 - [Prompt Hero: To learn and practice prompting](https://prompthero.com/)
 - [Free deeplearning.ai course on GenAI](https://learn.deeplearning.ai/)
+- [Prompt Examples by OpenAI](https://platform.openai.com/examples)
 
 ## Examples
 
